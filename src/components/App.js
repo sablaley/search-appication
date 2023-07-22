@@ -8,7 +8,7 @@ class App extends Component {
         super();
         this.state = {
             name: "Seach Application",
-            keyword: "USer TExt HEreee"
+            keyword: "USer TExt HEree"
         }
     }
 
