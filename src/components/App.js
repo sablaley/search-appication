@@ -9,13 +9,18 @@ class App extends Component {
         super();
         this.state = {
             name: "Seach Application",
+<<<<<<< HEAD
             keyword: "USer TExt HEreee"
+=======
+            keywords: "USer TExt HEre",
+            productData:JSONs
+>>>>>>> yogita
         }
     }
 
     handleChange = (event) => {
         console.log(event.target.value);
-        this.setState({ keyword: event.target.value ? event.target.value : 'USer TExt HEre' })
+        this.setState({ keywords: event.target.value ? event.target.value : 'USer TExt HEre' })
     }
 
     render() {
@@ -23,7 +28,7 @@ class App extends Component {
             <>
                 <Header name={this.state.name} />
                 <input type="text" onChange={this.handleChange} />
-                <h3>{this.state.keyword}</h3>
+                <h3>{this.state.keywords}</h3>
                 <hr />
                 <Display productdata = {this.state.productData} />
                 <Footer year='2023' />
