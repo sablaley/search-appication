@@ -9,12 +9,8 @@ class App extends Component {
         super();
         this.state = {
             name: "Seach Application",
-<<<<<<< HEAD
-            keyword: "USer TExt HEreee"
-=======
             keywords: "USer TExt HEre",
             productData:JSONs
->>>>>>> yogita
         }
     }
 
