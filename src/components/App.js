@@ -10,7 +10,7 @@ class App extends Component {
         this.state = {
             name: "Seach Application",
             keywords: "USer TExt HEre",
-            productData:JSON
+            productData:JSONs
         }
     }
 
