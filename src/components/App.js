@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Footer from './Footer';
-
+import Display from './ProductDisplay';
+import JSON from './data.json';
 
 class App extends Component {
     constructor() {
         super();
         this.state = {
             name: "Seach Application",
-            keyword: "USer TExt HEreee"
+            keyword: "USer TExt HEre",
+            productData:JSON
         }
     }
 
@@ -23,6 +25,8 @@ class App extends Component {
                 <Header name={this.state.name} />
                 <input type="text" onChange={this.handleChange} />
                 <h3>{this.state.keyword}</h3>
+                <hr />
+                <Display productdata = {this.state.productData} />
                 <Footer year='2023' />
             </>
         )
