@@ -8,7 +8,7 @@
         "name":"3M 9004IN Particle Respirator Mask",
         "image":"https://i.ibb.co/8BJhgK2/r6xkegcloxgn5eq8owwg.jpg",
         "description":"box of 10 masks",
-        "cost":180
+        "cost":"180  "
     },
     {
         "id":2,
@@ -19,7 +19,7 @@
         "name":"Vogmask Vector Havoc N99CV Mask Large",
         "image":"https://i.ibb.co/fHQ8JY4/kclatp7d9dt0dwgu4zkq.jpg",
         "description":"box of 10 masks",
-        "cost":200
+        "cost":"200  "
     },
     {
         "id":3,
@@ -30,7 +30,7 @@
         "name":"Faballey Boota 3 Ply Tie On Balloon Reusable Mask Set",
         "image":"https://i.ibb.co/wCQQF6F/swa8ycmducwcfdmehhqe.jpg",
         "description":"box of 20 masks",
-        "cost":380
+        "cost":"380  "
     },
     {
         "id":4,
@@ -41,7 +41,7 @@
         "name":"FLOH KN95 Four Layered Air Purifying Particle Respirator Mask",
         "image":"https://i.ibb.co/MSxXqxj/nwow2gmqjkmrqewkkx6d.png",
         "description":"box of 10 masks",
-        "cost":222
+        "cost":"222  "
     },
     {
         "id":5,
@@ -52,7 +52,7 @@
         "name":"3M Avagard CHG Handrub Hand Sanitizer Antiseptic Solution",
         "image":"https://i.ibb.co/HpHFygW/vcweesrsrifexmfl55wo.png",
         "description":"bottle of 200 ml Liquid",
-        "cost":200
+        "cost":"200  "
     },
     {
         "id":6,
@@ -63,7 +63,7 @@
         "name":"Dettol Original Liquid Handwash",
         "image":"https://i.ibb.co/tY2xBCG/j4sqs2mbm0k8bolkmoie.jpg",
         "description":"pump bottle of 200 ml Liquid",
-        "cost":140
+        "cost":"140  "
     },
     {
         "id":7,
@@ -74,7 +74,7 @@
         "name":"FLOH Sharp Hand Sanitizer Gel",
         "image":"https://i.ibb.co/3kWY6kf/d0spy2mrd5zdl8kqvrqi.png",
         "description":"fliptop bottle of 750 ml Sanitizer",
-        "cost":300
+        "cost":"300  "
     },
     {
         "id":8,
@@ -85,8 +85,8 @@
         "name":"Lifebuoy Total Immunity Boosting",
         "image":"https://i.ibb.co/gdLGpT9/quirhf5d70blu2vopx0i.jpg",
         "description":"Hand Sanitizer",
-        "cost":80
-    },
+        "cost":"80"
+      },
     {
         "id":9,
         "brand":"AIO",
@@ -96,7 +96,7 @@
         "name":"AIO Large White Latex Gloves (Lightly Powdered)",
         "image":"https://i.ibb.co/dQ77Gmd/z6c8yluzcazs6vz8exye.png",
         "description":"box of 100 Gloves",
-        "cost":2345
+        "cost":"234  "
     },
     {
         "id":10,
@@ -107,7 +107,7 @@
         "name":"Dominion Care Large Disposable Nitrile Examination Glove",
         "image":"https://i.ibb.co/3d3wGg1/ylqwnob7subiqzw8glv6.png",
         "description":"box of 100 Gloves",
-        "cost":2165
+        "cost":"216  "
     },
     {
         "id":11,
@@ -118,7 +118,7 @@
         "name":"Nulife Latex Medical Examination Powdered Gloves Medium",
         "image":"https://i.ibb.co/j382LmP/lutid8hcmdhznj3vtzkg.jpg",
         "description":"box of 100 Gloves",
-        "cost":2450
+        "cost":"245  "
     },
     {
         "id":12,
@@ -129,7 +129,7 @@
         "name":"Nulife Sterile Powdered Surgical Gloves 7.0",
         "image":"https://i.ibb.co/1XBFnGQ/cfvhf73iuhbvrqdcro3b.jpg",
         "description":"box of 50 Gloves",
-        "cost":1401
+        "cost":"140  "
     },
     {
         "id":13,
@@ -140,7 +140,7 @@
         "name":"Nulife Latex Medical Examination Powdered Gloves Large",
         "image":"https://i.ibb.co/NC97S6L/aurrxnutankojka5aka0.jpg",
         "description":"box of 100 Gloves",
-        "cost":2310
+        "cost":"231  "
     },
     {
         "id":14,
@@ -151,7 +151,7 @@
         "name":"Savlon Antiseptic Disinfectant Liquid",
         "image":"https://i.ibb.co/mBKqHvT/ot724agfjsdhntsgbnev.png",
         "description":"bottle of 1000 ml Liquid",
-        "cost":217
+        "cost":"217  "
     },
     {
         "id":15,
@@ -162,7 +162,7 @@
         "name":"Coronation Latex Examination Glove Medium",
         "image":"https://i.ibb.co/nryTm7w/jphdf2v5me8vdypheeqv.jpg",
         "description":"box of 100 Gloves",
-        "cost":581
+        "cost":"581  "
     },
     {
         "id":16,
@@ -173,7 +173,7 @@
         "name":"Volatile Marketing Ultra Digital Thermometer",
         "image":"https://i.ibb.co/sHZKRhJ/lqp5zyhcmwwufo78rrkx.jpg",
         "description":"packet of 1 Unit",
-        "cost":202
+        "cost":"202  "
     },
     {
         "id":17,
@@ -184,7 +184,7 @@
         "name":"Dettol Antiseptic Disinfectant Liquid",
         "image":"https://i.ibb.co/z7zqLz5/ujyvrk4znxpycleal5e1.jpg",
         "description":"bottle of 60 ml Liquid",
-        "cost":30.25
+        "cost":"40"
     },
     {
         "id":18,
@@ -195,7 +195,7 @@
         "name":"Keya Seth Medicure Ankush Antiseptic",
         "image":"https://i.ibb.co/Cwvh2RD/eatvvln8vxzq6bot2jp5.png",
         "description":"bottle of 100 ml Liquid",
-        "cost":50
+        "cost":"50"
     },
     {
         "id":19,
@@ -206,7 +206,7 @@
         "name":"1mg Giloy 500mg Capsule",
         "image":"https://i.ibb.co/7Yjv6cT/o7mnm6jsfwkimiqwnxjp.png",
         "description":"bottle of 30 capsules",
-        "cost":129
+        "cost":"129  "
     },
     {
         "id":20,
@@ -217,7 +217,7 @@
         "name":"Sahyog Wellness 2306 Multi",
         "image":"https://i.ibb.co/zQFXc14/hwsmjd0dcodd5gx13g7l.jpg",
         "description":"box of 1 Unit",
-        "cost":999
+        "cost":"999  "
     },
     {
         "id":21,
@@ -228,7 +228,7 @@
         "name":"Dr Morepen NCT-02 Non Contact Infra Red Thermometer",
         "image":"https://i.ibb.co/Rggkk24/jucvx8dpn51mqzc2tdgy.png",
         "description":"box of 1 Unit",
-        "cost":6499
+        "cost":"649  "
     },
     {
         "id":22,
@@ -239,7 +239,7 @@
         "name":"MCP Medical Infra Red Forehead Thermometer for Baby & Adult",
         "image":"https://i.ibb.co/vPWbNjL/aiptwfmfetgq7tvfrwbc.png",
         "description":"box of 1 Unit",
-        "cost":2180
+        "cost":"218  "
     },
     {
         "id":23,
@@ -250,7 +250,7 @@
         "name":"MCP Flexible Tip Waterproof Digital Thermometer Orange",
         "image":"https://i.ibb.co/t8v78P7/cyaa0qoo93nkjdyfyehs.png",
         "description":"box of 1 Unit",
-        "cost":220
+        "cost":"220  "
     },
     {
         "id":24,
@@ -261,7 +261,7 @@
         "name":"Fever Management Combo of Omron MC 246 Thermometer &",
         "image":"https://i.ibb.co/7jdGYfD/hazrvv9v9bbp9khbvbgi.jpg",
         "description":"combo pack of 2 Packs",
-        "cost":269.91
+        "cost":"269  "
     },
     {
         "id":25,
@@ -272,7 +272,7 @@
         "name":"Phytorelief-CC Lozenges Sugar Free",
         "image":"https://i.ibb.co/KxWm0S9/slc75udpwkxw0oen8zqi.jpg",
         "description":"strip of 10 lozenges",
-        "cost":261
+        "cost":"261  "
     },
     {
         "id":26,
@@ -283,7 +283,7 @@
         "name":"1mg Turmeric Drops with Piperine",
         "image":"https://i.ibb.co/kxVhzfG/kkdzmgnewqmtezxvl39v.jpg",
         "description":"bottle of 30 ml Drop",
-        "cost":138
+        "cost": "8"
     },
     {
         "id":27,
@@ -294,6 +294,17 @@
         "name":"Coronation All-In-One Vaporiser",
         "image":"https://i.ibb.co/bH59XYY/n0ck9phylmmbr2hsgpua.png",
         "description":"box of 1 Unit",
-        "cost":292
+        "cost":"60"
+    },
+    {
+        "id":28,
+        "brand":"Coronation",
+        "discount":"30% and above",
+        "form":"Pack",
+        "uses":"Cough & cold",
+        "name":"Coronation All-In-One Vaporiser",
+        "image":"https://i.ibb.co/bH59XYY/n0ck9phylmmbr2hsgpua.png",
+        "description":"box of 1 Unit",
+        "cost":"130"
     }
 ]

@@ -1,0 +1,23 @@
+.main {
+    width: 90%;
+    margin-left: 10%;
+    display: inline-block;
+    font-size: 20px;
+    font-family: cursive;
+}
+.card {
+    width: 30%;
+    float: left;
+    height: 550px;
+    background-color:rgb(222, 240, 240);
+    margin: 8px;
+    margin-bottom: 5%;
+    border: 2px solid rgb(233, 243, 243);
+    box-shadow: 5px 5px 10px gray;
+}
+.card>img {
+    width: 50%;
+    display: block;
+    margin: auto;
+    height: 200px;
+}
